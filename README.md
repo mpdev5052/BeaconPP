@@ -1,8 +1,8 @@
-# Privacy Policy – Beacon DevTools D365 Chrome Extension
+# Privacy Policy – Beacon — D365 DevTools Chrome Extension
 
 **Last updated: April 23, 2026**
 
-This Privacy Policy describes how the Beacon Chrome Extension ("Beacon", "we", "our", or "the extension") handles information when you use it within Microsoft Dataverse and Dynamics 365 environments.
+This Privacy Policy describes how the Beacon — D365 DevTools Chrome Extension ("Beacon", "Beacon — D365 DevTools", "we", "our", or "the extension") handles information when you use it within Microsoft Dataverse and Dynamics 365 environments.
 
 ---
 
